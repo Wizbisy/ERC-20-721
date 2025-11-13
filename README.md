@@ -89,7 +89,7 @@ constructor(
 
 ### 🧑‍💻 Contribution
 
-This repo is part of my learning and building journey in the Base ecosystem.
+This repo is part of my learning and building journey.
 Pull requests, issues, and suggestions are welcome!
 
 
